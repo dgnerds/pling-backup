@@ -1,0 +1,15 @@
+[Unit]
+Description=DG-pling
+After=syslog.target
+
+[Service]
+Type=forking
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/dgmusic/.Xauthority
+PIDFile=/var/run/dgpling.pid
+ExecStartPre=rm -f /var/run/dgpling.pid
+ExecStart=/usr/bin/python /home/dgmusic/dg_pling/pling-project/main.py
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target

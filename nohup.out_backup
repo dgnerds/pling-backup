@@ -1,0 +1,178 @@
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 635 requests (635 known processed) with 52 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 2962 requests (2961 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Failed to get sink input information: No such entity
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1067 requests (1066 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":0"
+      after 1351 requests (1350 known processed) with 0 events remaining.
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":0"
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":0"
+      after 1072 requests (1070 known processed) with 0 events remaining.
+      after 948 requests (947 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+Failed to get sink input information: No such entity
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":0"
+      after 1901 requests (1900 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1698 requests (1698 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Failed to get sink input information: No such entity
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1015 requests (1014 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 885 requests (884 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 3052 requests (3051 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 2035 requests (2034 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1203 requests (1202 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 728 requests (727 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":0"
+      after 617 requests (616 known processed) with 15 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 3430 requests (3430 known processed) with 0 events remaining.
+X connection to :0 broken (explicit kill or server shutdown).
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 31
+    mcu = mbedBlackBox(eventPlingList)                                   hread  
+                                                                             ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/plingOmeter-project/plingOmeter.py", line 10, in <module>
+    from watchdog.observers import Observer
+ImportError: No module named watchdog.observers
+No protocol specified
+No protocol specified
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 66, in <module>
+    if(meny.musicCtrl.appsMuted):
+NameError: global name 'meny' is not defined
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1018 requests (1017 known processed) with 0 events remaining.
+/home/dgmusic/dg_pling/plingOmeter-project
+Init errorMail class
+Generating error message
+Connect and login
+(535, '5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials j10sm558427ljh.9 - gsmtp')
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/plingOmeter-project/plingOmeter.py", line 10, in <module>
+    from watchdog.observers import Observer
+ImportError: No module named watchdog.observers
+No protocol specified
+No protocol specified
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 66, in <module>
+    if(meny.musicCtrl.appsMuted):
+NameError: global name 'meny' is not defined
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/plingOmeter-project/plingOmeter.py", line 10, in <module>
+    from watchdog.observers import Observer
+ImportError: No module named watchdog.observers
+No protocol specified
+No protocol specified
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 66, in <module>
+    if(meny.musicCtrl.appsMuted):
+NameError: global name 'meny' is not defined
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/plingOmeter-project/plingOmeter.py", line 10, in <module>
+    from watchdog.observers import Observer
+ImportError: No module named watchdog.observers
+No protocol specified
+No protocol specified
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 66, in <module>
+    if(meny.musicCtrl.appsMuted):
+NameError: global name 'meny' is not defined
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/plingOmeter-project/plingOmeter.py", line 10, in <module>
+    from watchdog.observers import Observer
+ImportError: No module named watchdog.observers
+No protocol specified
+No protocol specified
+Traceback (most recent call last):
+  File "/home/dgmusic/dg_pling/pling-project/main.py", line 66, in <module>
+    if(meny.musicCtrl.appsMuted):
+NameError: global name 'meny' is not defined
